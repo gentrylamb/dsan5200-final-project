@@ -19,8 +19,8 @@ This project explores trends in opioid prescriptions, overdose deaths, and relat
    - Description: Quarterly and annual rates of opioid-related hospitalizations and emergency department visits.
 5. Drug Overdose Mortality by State\
    - Description: Drug overdose deaths by state from 1999-2022.
-6. BuzzFeed News Fentanyl & Cocaine Overdose Dataset
-   - Description: CDC Multiple Cause of Death data on fentanyl and cocaine-related overdoses.
+6. Provisional Drug Overdose Death Counts
+   - Description: CDC Multiple Cause of Death data on overdoses by drug type.
 
 ## Methodology
 - **Exploratory Data Analysis (EDA)**: Examine trends, distributions, and missing data.
