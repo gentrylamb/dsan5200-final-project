@@ -1,0 +1,11 @@
+---
+title: "The Opioid Crisis"
+subtitle: "Analyzing Prescription Drug Use and Overdose Trends"
+authors:
+- Chase Clemence
+- CJ Jones
+- Gentry Lamb
+- Adam Stein
+---
+
+Visual Narrative here
